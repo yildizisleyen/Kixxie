@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: adeeada426a36aa42ae74eac6f92b8f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _kittySmiling: {instanceID: 0}
+  - _rigidbody: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
